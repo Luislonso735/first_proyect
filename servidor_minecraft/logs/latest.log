@@ -117,3 +117,14 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [00:17:57] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to -246.500000, 73.500000, -158.500000]
 [00:18:47] [Server thread/INFO]: Villager class_1646['Jacob'/97, l='ServerLevel[world]', x=42.62, y=66.00, z=16.03] died, message: 'Jacob hit the ground too hard'
 [00:18:47] [Server thread/INFO]: Named entity class_1646['Jacob'/97, l='ServerLevel[world]', x=42.62, y=66.00, z=16.03] died: Jacob fell from a high place
+[00:21:07] [Server thread/INFO]: xtralexxD has made the advancement [Heart of the Machine]
+[00:24:56] [Server thread/INFO]: cbuenorey has made the advancement [Monster Hunter]
+[00:26:25] [Server thread/INFO]: cbuenorey has made the advancement [Not Today, Thank You]
+[00:28:04] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to 115.500000, 80.500000, -192.500000]
+[00:28:28] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[00:29:22] [Server thread/INFO]: [xtralexxD: Set own game mode to Creative Mode]
+[00:29:30] [Server thread/INFO]: Villager class_1646['Burt'/134, l='ServerLevel[world]', x=3.82, y=63.00, z=3.75] died, message: 'Burt hit the ground too hard'
+[00:29:30] [Server thread/INFO]: Named entity class_1646['Burt'/134, l='ServerLevel[world]', x=3.82, y=63.00, z=3.75] died: Burt fell from a high place
+[00:29:54] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[00:29:56] [Server thread/INFO]: Villager class_1646['Salome'/145, l='ServerLevel[world]', x=-48.49, y=225.00, z=-19.22] died, message: 'Salome hit the ground too hard'
+[00:29:56] [Server thread/INFO]: Named entity class_1646['Salome'/145, l='ServerLevel[world]', x=-48.49, y=225.00, z=-19.22] died: Salome fell from a high place
