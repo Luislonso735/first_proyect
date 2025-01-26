@@ -1,0 +1,21 @@
+{
+	id: "0c79c35e-5049-48fa-a244-d59c09c469b8"
+	type: "party"
+	owner: "53407af1-05c9-37ae-8d17-2fbf496f58b4"
+	ranks: {
+		53407af1-05c9-37ae-8d17-2fbf496f58b4: "owner"
+		06d198ff-b473-3f52-b165-234fd92de410: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "tilininsanos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1737849428424L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"xtralexxD\"}]}" }
+		{ from: "53407af1-05c9-37ae-8d17-2fbf496f58b4", date: 1737849437015L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"cbuenorey\"}]}" }
+	]
+	extra: { }
+}

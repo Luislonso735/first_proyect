@@ -516,6 +516,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-25 23:44:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:51 +0000"
@@ -889,6 +895,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_thornborn_towers": {
+    "criteria": {
+      "location0": "2025-01-25 23:50:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:50 +0000"
@@ -904,6 +916,12 @@
   "supplementaries:recipes/sign_post_dark_oak": {
     "criteria": {
       "has_the_recipe": "2025-01-25 23:33:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -1369,6 +1387,14 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "pine_taiga": "2025-01-25 23:48:52 +0000",
+      "maple_forest": "2025-01-25 23:48:48 +0000",
+      "temperate_grove": "2025-01-25 23:48:41 +0000"
+    },
+    "done": false
+  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-01-25 23:22:58 +0000"
@@ -1502,6 +1528,14 @@
       "has_lots_of_items": "2025-01-25 23:27:59 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "pine_taiga": "2025-01-25 23:48:52 +0000",
+      "maple_forest": "2025-01-25 23:48:48 +0000",
+      "temperate_grove": "2025-01-25 23:48:41 +0000"
+    },
+    "done": false
   },
   "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
     "criteria": {
@@ -1745,6 +1779,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
+    "criteria": {
+      "has_refined_iron": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-01-25 23:22:58 +0000"
@@ -1772,6 +1812,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-01-25 23:28:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
+    "criteria": {
+      "has_refined_iron": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -2006,6 +2052,12 @@
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -2357,6 +2409,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/manual": {
+    "criteria": {
+      "has_ingot": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_call_of_the_void": {
     "criteria": {
       "has_diamond": "2025-01-25 23:35:37 +0000"
@@ -2561,6 +2619,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:50 +0000"
@@ -2738,6 +2802,12 @@
   "mcda:recipes/base_armors/shulker_armor_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -3096,7 +3166,8 @@
       "minecraft:dark_forest": "2025-01-25 23:28:31 +0000",
       "minecraft:river": "2025-01-25 23:29:41 +0000",
       "minecraft:windswept_forest": "2025-01-25 23:26:29 +0000",
-      "minecraft:ocean": "2025-01-25 23:34:40 +0000"
+      "minecraft:ocean": "2025-01-25 23:34:40 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-25 23:48:34 +0000"
     },
     "done": false
   },
@@ -3367,6 +3438,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-25 23:37:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -4007,6 +4084,12 @@
     },
     "done": true
   },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_butterfly": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 23:35:37 +0000"
@@ -4143,6 +4226,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -4982,6 +5071,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-01-25 23:27:06 +0000"
@@ -5540,6 +5635,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-01-25 23:57:41 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_ladder": {
     "criteria": {
       "has_stick": "2025-01-25 23:27:50 +0000"
@@ -5729,6 +5830,12 @@
   "mcda:recipes/base_armors/mercenary_armor_leggings": {
     "criteria": {
       "has_iron_leggings": "2025-01-25 23:38:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
@@ -5939,6 +6046,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-01-25 23:40:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-01-25 23:22:58 +0000"
@@ -6117,6 +6230,12 @@
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-01-25 23:29:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-01-25 23:40:04 +0000"
     },
     "done": true
   },
