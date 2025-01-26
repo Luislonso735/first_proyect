@@ -182,3 +182,4 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [00:49:54] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
 [00:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11129ms or 222 ticks behind
 [00:49:59] [Worker-Main-1/INFO]: [STDOUT]: Distance from spawn is: 3344
+[00:51:15] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=411, y=-2, z=-3777}
