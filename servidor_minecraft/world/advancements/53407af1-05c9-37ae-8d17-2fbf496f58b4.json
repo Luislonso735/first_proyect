@@ -605,6 +605,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-01-26 00:48:46 +0000",
       "minecraft:birch_forest": "2025-01-26 00:18:31 +0000",
       "minecraft:windswept_hills": "2025-01-26 00:04:42 +0000",
       "minecraft:beach": "2025-01-25 23:44:07 +0000",
@@ -614,7 +615,9 @@
       "minecraft:forest": "2025-01-26 00:18:27 +0000",
       "minecraft:windswept_forest": "2025-01-25 23:16:46 +0000",
       "minecraft:ocean": "2025-01-25 23:28:49 +0000",
-      "minecraft:old_growth_birch_forest": "2025-01-25 23:48:31 +0000"
+      "minecraft:flower_forest": "2025-01-26 00:48:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-25 23:48:31 +0000",
+      "minecraft:plains": "2025-01-26 00:46:41 +0000"
     },
     "done": false
   },
@@ -1267,6 +1270,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/building_blocks/obsidian": {
+    "criteria": {
+      "has_obsidianfish": "2025-01-26 00:40:17 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_highland": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 23:31:26 +0000"
@@ -1300,6 +1309,12 @@
   "bclib:recipes/misc/tag_bucket": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-01-25 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -1604,6 +1619,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_feather": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-25 23:25:06 +0000"
@@ -1865,6 +1886,12 @@
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-26 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_glowdine": {
+    "criteria": {
+      "has_glowdine": "2025-01-26 00:40:18 +0000"
     },
     "done": true
   },
@@ -2188,10 +2215,14 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-01-26 00:45:29 +0000",
       "pine_taiga": "2025-01-25 23:48:39 +0000",
       "autumnal_maple_forest": "2025-01-26 00:35:44 +0000",
       "willow_forest": "2025-01-26 00:35:05 +0000",
+      "rocky_meadow": "2025-01-26 00:45:52 +0000",
+      "flower_fields": "2025-01-26 00:49:00 +0000",
       "maple_forest": "2025-01-25 23:48:44 +0000",
+      "magnolia_highlands": "2025-01-26 00:45:50 +0000",
       "temperate_grove": "2025-01-25 23:48:40 +0000",
       "cold_river": "2025-01-26 00:35:51 +0000",
       "gravel_beach": "2025-01-26 00:36:19 +0000",
@@ -2307,6 +2338,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/steamed_crab": {
+    "criteria": {
+      "has_crab": "2025-01-26 00:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 00:12:14 +0000"
@@ -2357,10 +2394,14 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-01-26 00:45:29 +0000",
       "pine_taiga": "2025-01-25 23:48:39 +0000",
       "autumnal_maple_forest": "2025-01-26 00:35:44 +0000",
       "willow_forest": "2025-01-26 00:35:05 +0000",
+      "rocky_meadow": "2025-01-26 00:45:52 +0000",
+      "flower_fields": "2025-01-26 00:49:00 +0000",
       "maple_forest": "2025-01-25 23:48:44 +0000",
+      "magnolia_highlands": "2025-01-26 00:45:50 +0000",
       "temperate_grove": "2025-01-25 23:48:40 +0000",
       "cold_river": "2025-01-26 00:35:51 +0000",
       "gravel_beach": "2025-01-26 00:36:19 +0000",
@@ -2663,6 +2704,12 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-01-26 00:47:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
       "has_refined_iron": "2025-01-25 23:40:13 +0000"
@@ -2675,6 +2722,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 00:39:56 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_purple_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 23:31:26 +0000"
@@ -2684,6 +2737,12 @@
   "supplementaries:recipes/flags/flag_orange": {
     "criteria": {
       "has_stick": "2025-01-25 23:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-01-26 00:47:03 +0000"
     },
     "done": true
   },
@@ -2951,6 +3010,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-01-25 23:20:35 +0000"
@@ -3092,6 +3157,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/spruce_palisade": {
     "criteria": {
       "has_log": "2025-01-25 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "crab": "2025-01-26 00:40:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -3239,6 +3316,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-01-26 00:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-25 23:38:16 +0000"
@@ -3266,6 +3349,12 @@
   "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-01-25 23:20:30 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/misc/glowstone_dust": {
+    "criteria": {
+      "has_glowdine": "2025-01-26 00:40:18 +0000"
     },
     "done": true
   },
@@ -3350,6 +3439,12 @@
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_ingot": "2025-01-25 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -3671,6 +3766,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-25 23:25:06 +0000"
@@ -3692,6 +3793,12 @@
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2025-01-25 23:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
@@ -4308,6 +4415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/glowstone_dust": {
+    "criteria": {
+      "has_glowdine": "2025-01-26 00:40:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-25 23:31:05 +0000"
@@ -4488,6 +4601,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/guards_armor_boots": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 23:31:26 +0000"
@@ -4509,6 +4628,12 @@
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-01-26 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -4536,6 +4661,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/crab_legs": {
+    "criteria": {
+      "has_crab": "2025-01-26 00:40:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_juice": {
     "criteria": {
       "has_apple": "2025-01-25 23:25:11 +0000"
@@ -4557,6 +4688,12 @@
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-01-25 23:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
@@ -4710,6 +4847,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-01-25 23:25:47 +0000"
@@ -4821,6 +4964,12 @@
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2025-01-26 00:25:29 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
@@ -4956,6 +5105,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-25 23:20:30 +0000"
@@ -5074,6 +5229,12 @@
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2025-01-26 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
@@ -6568,6 +6729,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 00:39:56 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/chair_cincinnasite": {
     "criteria": {
       "has_stick": "2025-01-25 23:20:35 +0000"
@@ -6589,6 +6756,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-01-25 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/food/grilled_obsidianfish": {
+    "criteria": {
+      "has_obsidianfish": "2025-01-26 00:40:17 +0000"
     },
     "done": true
   },
@@ -6667,6 +6840,12 @@
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-01-25 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -7155,6 +7334,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-25 23:31:29 +0000"
@@ -7182,6 +7367,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-25 23:46:00 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-01-26 00:40:59 +0000"
     },
     "done": true
   },
@@ -7269,6 +7460,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-01-25 23:20:35 +0000"
@@ -7329,6 +7526,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-26 00:41:01 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/elder_poppet_shelf": {
     "criteria": {
       "has_item": "2025-01-25 23:59:19 +0000"
@@ -7338,6 +7541,12 @@
   "techreborn:recipes/compressor/advanced_alloy_plate": {
     "criteria": {
       "has_tag_c_advanced_alloy_ingots": "2025-01-26 00:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-26 00:39:56 +0000"
     },
     "done": true
   },
@@ -7500,6 +7709,12 @@
   "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
     "criteria": {
       "has_emerald": "2025-01-25 23:28:06 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-01-26 00:42:29 +0000"
     },
     "done": true
   },
@@ -7794,6 +8009,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-25 23:20:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
@@ -8172,6 +8393,12 @@
   "mcda:recipes/base_armors/piglin_armor_helmet": {
     "criteria": {
       "has_bone": "2025-01-25 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-01-26 00:44:10 +0000"
     },
     "done": true
   },
