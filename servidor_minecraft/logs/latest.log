@@ -128,3 +128,22 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [00:29:54] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
 [00:29:56] [Server thread/INFO]: Villager class_1646['Salome'/145, l='ServerLevel[world]', x=-48.49, y=225.00, z=-19.22] died, message: 'Salome hit the ground too hard'
 [00:29:56] [Server thread/INFO]: Named entity class_1646['Salome'/145, l='ServerLevel[world]', x=-48.49, y=225.00, z=-19.22] died: Salome fell from a high place
+[00:30:23] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[00:31:33] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[00:31:58] [Server thread/INFO]: [xtralexxD: Teleported xtralexxD to cbuenorey]
+[00:34:42] [Server thread/INFO]: [xtralexxD: Set own game mode to Survival Mode]
+[00:35:08] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains]] from pos class_2338{x=101, y=67, z=-587}
+[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[00:35:33] [pool-12-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest]] from pos class_2338{x=59, y=67, z=-837}
+[00:36:07] [Server thread/INFO]: [xtralexxD: Set own game mode to Creative Mode]
+[00:36:12] [Server thread/INFO]: [xtralexxD: Set own game mode to Survival Mode]
+[00:36:28] [Server thread/INFO]: cbuenorey has made the advancement [You Are A Pirate]
+[00:36:32] [Server thread/INFO]: xtralexxD has made the advancement [You Are A Pirate]
+[00:36:34] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1428480368,1420968319,-1860773454,-692653137],type:"minecraft:entity",y_offset:0.36f}}]
+[00:36:34] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-434729057,646008605,-1722651449,-165389026],type:"minecraft:entity",y_offset:0.36f}}]
+[00:36:37] [Server thread/INFO]: Villager class_1646['Connie'/27974, l='ServerLevel[world]', x=-21.39, y=247.00, z=-1016.49] died, message: 'Connie hit the ground too hard'
+[00:36:37] [Server thread/INFO]: Named entity class_1646['Connie'/27974, l='ServerLevel[world]', x=-21.39, y=247.00, z=-1016.49] died: Connie fell from a high place
+[00:37:22] [Server thread/INFO]: xtralexxD has made the advancement [Not Today, Thank You]
+[00:38:28] [Server thread/INFO]: Villager class_1646['Margarett'/147, l='ServerLevel[world]', x=-48.46, y=225.00, z=-18.35] died, message: 'Margarett hit the ground too hard'
+[00:38:28] [Server thread/INFO]: Named entity class_1646['Margarett'/147, l='ServerLevel[world]', x=-48.46, y=225.00, z=-18.35] died: Margarett fell from a high place
+[00:39:54] [Server thread/INFO]: xtralexxD has made the advancement [Close Quarters]
